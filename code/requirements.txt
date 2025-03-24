@@ -1,0 +1,10 @@
+pandas
+Faker
+scikit-learn
+ipykernel
+torch
+langchain
+transformers
+langchain_community
+flask
+langchain-huggingface
